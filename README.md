@@ -20,7 +20,7 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 ## Some of my Projects:
 ### Movie Recommendation App
 - Machine learning based movie recommendation app. Users can combine different movies and get suggestions for the provided combination. I trained a collaborative filtering model and obtain embedding vectors for about 60k movies. Recommendations relies on these embedding vectors. Designed a simple front-end with angular and backend with flask. 
-- [active website](https://moviecocktail.netlify.app/)
+- [deployed app](https://moviecocktail.netlify.app/)
 - [github page](https://github.com/yildize/Movie-Cocktail-Project)
 
 ### Joke Recommender

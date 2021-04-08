@@ -9,7 +9,7 @@ Hey there it's Erdogan. I am interested in AI, Machine Learning, Deep Learning.
 - [FastaiV4-Part1 (Jeremy Howard)](https://github.com/yildize/FastaiV4)
 - [Basic Python Machine Learning](https://github.com/yildize/Basic-MachineLearning-Python)
 - [Undergraduate Thesis - Exoskeleton](https://github.com/yildize/Exeskeleton-Project-Files)
-- [School Projects](https://github.com/yildize/Angular-MyNotes)
+- [School Projects](https://github.com/yildize/School-Projects-Pdfs)
 - [Angular Notes](https://github.com/yildize/Angular-MyNotes)
 - [Web Scraping](https://github.com/yildize/WebScraping-MyNotes)
 - [SQL Basics](https://github.com/yildize/SQL-MyNotes)
